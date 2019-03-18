@@ -1,0 +1,13 @@
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\FangJiaFetch.exe.config
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\FangJiaFetch.exe
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\FangJiaFetch.pdb
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\obj\Debug\FangJiaFetch.csprojAssemblyReference.cache
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\obj\Debug\FangJiaFetch.csproj.CoreCompileInputs.cache
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\obj\Debug\FangJiaFetch.csproj.CopyComplete
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\obj\Debug\FangJiaFetch.exe
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\obj\Debug\FangJiaFetch.pdb
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\MySql.Data.dll
+C:\Users\Boco_PC\source\repos\FangJiaFetch\FangJiaFetch\bin\Debug\MySql.Data.xml
